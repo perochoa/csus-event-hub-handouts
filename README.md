@@ -70,14 +70,14 @@ Next up: install the Claude desktop app, sign in, and open the repo in it with [
 | 0:00 | [Intro](#intro-000) | The plan for today, the codebase, and its setup |
 | 0:10 | [00 Install and setup](00-setup.md) | Getting Claude ready |
 | 0:20 | [M1 First agent task](01-first-task.md) | Codebase onboarding |
-| 0:30 | [M2 Project instructions](02-instructions.md) | Feature development |
-| 0:45 | [M3 Giving useful context](03-context.md) | Debugging |
+| 0:25 | [M2 Project instructions](02-instructions.md) | Feature development |
+| 0:40 | [M3 Giving useful context](03-context.md) | Debugging |
 | 0:55 | [M4 Skills](04-skills.md) | Testing |
 | 1:10 | Break 🍕 | |
 | 1:20 | [M5 Custom agents](05-agents.md) | Code review |
-| 1:35 | [M6 Hooks](06-hooks.md) | Guardrails |
-| 1:50 | [M7 MCP servers](07-mcp.md) | External tooling |
-| 2:00 | [Responsible use](#responsible-use) | |
+| 1:40 | [M6 Hooks](06-hooks.md) | Guardrails |
+| 1:55 | [M7 MCP servers](07-mcp.md) | External tooling |
+| 2:10 | [Responsible use](#responsible-use) | |
 
 **Something broken?** Put your hand up and one of the floaters will come help.
 

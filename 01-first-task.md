@@ -1,10 +1,10 @@
-# M1: First Agent Task (10 min)
+# M1: First Agent Task (5 min)
 
 **What we're doing:** learning to drive Claude Code safely on a codebase we've never seen before.
 
 Haven't installed the Claude app or opened the repo in it yet? Do [00: Install and setup](00-setup.md) first.
 
-## Exercise (4 min)
+## Exercise (3 min)
 
 Ask the agent:
 

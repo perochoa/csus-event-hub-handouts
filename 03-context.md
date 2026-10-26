@@ -1,4 +1,4 @@
-# M3: Giving Useful Context (10 min)
+# M3: Giving Useful Context (15 min)
 
 **What we're doing:** pointing the agent at exactly the right code, error, and expected behaviour, and nothing else. Then measuring whether it actually made a difference.
 
@@ -14,7 +14,7 @@ Think of context like a budget. A vague prompt makes the agent search, guess, an
 | `/context` | any time | Shows how much of the context window is in use |
 | New conversation | between unrelated tasks | Delete the old one and start a new one, so old context doesn't leak in |
 
-## Exercise (6 min): same bug, two prompts
+## Exercise (10 min): same bug, two prompts
 
 Here's the bug, straight up: **deleting an event leaves its RSVPs behind.** SQLite then reuses the deleted event's id, so if you delete the newest event and create a new one, the new event already has the old event's RSVPs, even though nobody has signed up for it. Call them ghost RSVPs.
 

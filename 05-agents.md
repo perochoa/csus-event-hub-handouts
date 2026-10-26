@@ -1,4 +1,4 @@
-# M5: Custom Agents (15 min)
+# M5: Custom Agents (20 min)
 
 **What we're doing:** building a specialist reviewer that can't "helpfully" rewrite our code.
 
@@ -32,7 +32,7 @@ This is your first agent, so the `.claude/agents/` folder is brand new, and a ru
 
 Ask "Which subagents can you use?" to check it's there. Claude hands work to an agent automatically when its description matches, or you can just ask for it by name.
 
-## Exercise (8 min): code review
+## Exercise (12 min): code review
 
 Pretend a teammate just pushed a new search feature to `feat/event-search`. In the app's terminal, commit your work, then put their commit on a review branch of your own, so your `CLAUDE.md` and reviewer stay put:
 

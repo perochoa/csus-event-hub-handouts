@@ -110,7 +110,7 @@ Now try sneaking the file in yourself with an `@` mention:
 
 An `@` mention pastes the file straight into your prompt **without a tool call**, so `PreToolUse` hooks never see it. The `deny` rule in `permissions` is what blocks this one.
 
-## Exercise (7 min)
+## Exercise (5 min)
 
 1. Ask the agent to make an edit, and in the same prompt, tell it to mess up the formatting on purpose:
 

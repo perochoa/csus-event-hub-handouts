@@ -1,4 +1,4 @@
-# M7: MCP Servers (10 min)
+# M7: MCP Servers (15 min)
 
 **What we're doing:** giving the agent a new ability from outside the repo (your Google Drive), and learning when we don't actually need one.
 
