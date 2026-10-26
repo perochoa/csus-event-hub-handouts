@@ -1,4 +1,4 @@
-# 00: Install and Setup (before the workshop, or 10 min with us)
+# 00: Install and Setup
 
 **What we're doing:** getting the Claude desktop app onto your laptop, signed in, and opened on the app repo, so every module after this is just exercises.
 
