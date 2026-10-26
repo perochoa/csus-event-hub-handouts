@@ -21,7 +21,7 @@ Not there? Run `/status` and check you're signed in with your paid Claude accoun
 
 ## Try it
 
-The presenter will share a link to a sample Google Sheet called **Event Hub - Winter Events**. Open it and do **File → Make a copy** so it ends up in your own Drive. (Your copy is called "Copy of Event Hub - Winter Events". That's fine, the agent searches by name.)
+Open [this link to a sample Google Sheet](https://docs.google.com/spreadsheets/d/1BSCGuSwKM5zFt-0WwN3H8mmPNREq2RPt45VdeSwW-v8/copy) called **Event Hub - Winter Events** and click **Make a copy** so it ends up in your own Drive. (Your copy is called "Copy of Event Hub - Winter Events". That's fine, the agent searches by name.)
 
 Then ask:
 
